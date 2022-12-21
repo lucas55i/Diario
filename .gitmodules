@@ -1,0 +1,3 @@
+[submodule "diario-back"]
+ path = diario-back"
+ url = https://github.com/lucas55i/diario-back.git
