@@ -1,3 +1,7 @@
 [submodule "diario-back"]
- path = diario-back"
- url = https://github.com/lucas55i/diario-back.git
+	path = diario-back
+	url = https://github.com/lucas55i/diario-back.git
+    
+[submodule "diarioWeb"]
+	path = diarioWeb
+	url = https://github.com/lucas55i/diarioWeb.git
